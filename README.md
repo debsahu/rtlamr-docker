@@ -8,7 +8,7 @@ A Docker setup to run [RTLAMR](https://github.com/bemasher/rtlamr) and [RTLAMR_C
 - Install using apt-get
 ```
 $ sudo apt-get update
-$ sudo apt-get rtl-sdr
+$ sudo apt-get install rtl-sdr
 ```
 - Make sure that `lsmod | grep dvb` does not show anything or may require a reboot
 

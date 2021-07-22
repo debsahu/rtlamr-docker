@@ -41,7 +41,7 @@ $ sudo systemctl start rtl_tcp.service
 
 - Download current directory
 ```
-git pull https://github.com/debsahu/rtlamr-docker.git
+git clone https://github.com/debsahu/rtlamr-docker.git
 cd rtlamr-docker
 ```
 - Edit [rtlamr-collect.env](https://github.com/debsahu/rtlamr-docker/blob/main/rtlamr-collect.env) to your liking
